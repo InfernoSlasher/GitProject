@@ -17,4 +17,4 @@
 
 http://www.reddit.com
 
-https://www.wallpaperflare.com/windows-11-windows-10-minimalism-wallpaper-ybzns "Image file"
+"C:\Users\SHREK\Pictures\Screenshots\Screenshot 2023-03-19 103429.png" "Image file"
